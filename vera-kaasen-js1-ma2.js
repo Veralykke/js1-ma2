@@ -61,15 +61,11 @@
 
 
 
-//QUESTION: 6 ???
 
 
-
-
-//QUESTION: 6 ???
+//QUESTION: 6 
 
 //const allItems = document.querySelectorAll("li");
-
 
 //for (let i = 0; i < allItems.length; i++) {
 //allItems[i].addEventListener("mouseover", animalHover);
