@@ -63,27 +63,22 @@
 
 //QUESTION: 6 ???
 
-/*const allItems = document.querySelectorAll("li");
-
-
-for (let i = 0; i < allItems.length; i++) {
-    allItems[i].addEventListener("mouseover", animalHover);
-
-
-    function animalHover(allItems) {
-        console.log(allItems);
-    };*/
 
 
 
-let listItems = document.querySelectorAll("li");
-listItems.forEach(function(item) {
-    item.addEventListener("mouseover", listAllValues)
-});
+//QUESTION: 6 ???
 
-function listAllValues(e) {
-    console.log(e.target.dataset.animal);
-}
+//const allItems = document.querySelectorAll("li");
+
+
+//for (let i = 0; i < allItems.length; i++) {
+//allItems[i].addEventListener("mouseover", animalHover);
+//}
+
+//function animalHover(allItems) {
+//console.log(allItems.target.dataset.animal);
+//};
+
 
 
 
